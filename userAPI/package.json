@@ -1,0 +1,11 @@
+{
+  "name": "RestifyWithMongodb",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "latest",
+    "restify": "latest"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
